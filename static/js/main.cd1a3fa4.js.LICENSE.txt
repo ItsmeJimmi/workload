@@ -25,6 +25,8 @@
  * @author: Jack Doyle, jack@greensock.com
 */
 
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
 /**
  * @license React
  * react-dom.production.min.js

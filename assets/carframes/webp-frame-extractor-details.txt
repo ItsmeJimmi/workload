@@ -1,0 +1,65 @@
+WEBP FRAME EXTRACTION DETAILS
+===========================
+
+Original File: ComfyUI_00052_.webp
+Frames Extracted: 49
+Animation Duration: 3.04s
+Frame Format: PNG
+Image Dimensions: 720x720
+
+FRAME TIMING INFORMATION
+========================
+
+Frame 1: 62ms
+Frame 2: 62ms
+Frame 3: 62ms
+Frame 4: 62ms
+Frame 5: 62ms
+Frame 6: 62ms
+Frame 7: 62ms
+Frame 8: 62ms
+Frame 9: 62ms
+Frame 10: 62ms
+Frame 11: 62ms
+Frame 12: 62ms
+Frame 13: 62ms
+Frame 14: 62ms
+Frame 15: 62ms
+Frame 16: 62ms
+Frame 17: 62ms
+Frame 18: 62ms
+Frame 19: 62ms
+Frame 20: 62ms
+Frame 21: 62ms
+Frame 22: 62ms
+Frame 23: 62ms
+Frame 24: 62ms
+Frame 25: 62ms
+Frame 26: 62ms
+Frame 27: 62ms
+Frame 28: 62ms
+Frame 29: 62ms
+Frame 30: 62ms
+Frame 31: 62ms
+Frame 32: 62ms
+Frame 33: 62ms
+Frame 34: 62ms
+Frame 35: 62ms
+Frame 36: 62ms
+Frame 37: 62ms
+Frame 38: 62ms
+Frame 39: 62ms
+Frame 40: 62ms
+Frame 41: 62ms
+Frame 42: 62ms
+Frame 43: 62ms
+Frame 44: 62ms
+Frame 45: 62ms
+Frame 46: 62ms
+Frame 47: 62ms
+Frame 48: 62ms
+Frame 49: 62ms
+
+
+Extracted with ❤️ by ConvertICO.COM
+https://convertico.com/webp-frame-extractor/
